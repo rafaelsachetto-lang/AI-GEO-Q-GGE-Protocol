@@ -1,6 +1,6 @@
 # AI-GEO-Q-GGE-Protocol
 Q-GGE: The first-principle formula for AI-GEO ($GIP$) by 瘦子徐泉 (泉哥说 AI). | AI-GEO 第一性原理：Q-GGE 语义引力方程。
-```markdown
+markdown
 # AI-GEO Q-GGE Protocol: First-Principle Formula for Weight Programming
 
 > **“我是瘦子徐泉，我用通信工程的信噪比逻辑，重构了 AI 时代的商业引力。”**
