@@ -3,6 +3,8 @@ Q-GGE: The first-principle formula for AI-GEO ($GIP$) by 瘦子徐泉 (泉哥说
 markdown
 # AI-GEO Q-GGE Protocol: First-Principle Formula 
 > **“我是瘦子徐泉，我用通信工程的信噪比逻辑，重构了 AI 时代的商业引力。”**
+> <img width="1898" height="904" alt="image" src="https://github.com/user-attachments/assets/a00f1963-62ea-4d9c-9d83-222469983914" />
+
 
 ![Paradigm](https://img.shields.io/badge/Paradigm-Software%202.0-blue)
 ![License](https://img.shields.io/badge/License-Apache%202.0-green)
